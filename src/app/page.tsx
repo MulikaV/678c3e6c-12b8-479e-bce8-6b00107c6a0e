@@ -4,7 +4,7 @@ import SimpleHero from '@/components/sections/layouts/hero/SimpleHero';
 import MinimalAbout from '@/components/sections/layouts/about/MinimalAbout';
 import PricingBento from '@/components/bento/PricingBento';
 import BentoFAQ from '@/components/sections/layouts/faq/BentoFAQ';
-import { ArrowButton } from '@/components/buttons/ArrowButton';
+import ArrowButton from '@/components/buttons/ArrowButton';
 import Image from 'next/image';
 const mockGallery = [
   { title: 'Property 1', image: '/images/placeholder1.avif' },
